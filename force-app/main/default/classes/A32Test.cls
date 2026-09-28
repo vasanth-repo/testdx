@@ -11,6 +11,7 @@ public class A32Test {
         Account acc = obj.createAccount(testName);
         
         // Assert
+        //AR-39942-test-6
         System.assertNotEquals(null, acc, 'Returned account should not be null');
         System.assertEquals(testName, acc.Name, 'Account name should match input');
     }

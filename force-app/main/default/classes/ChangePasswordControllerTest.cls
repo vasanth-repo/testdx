@@ -9,6 +9,7 @@
         controller.newPassword = 'qwerty1'; 
         controller.verifyNewPassword = 'qwerty1';                
         //SYSTEM.out.println() prints in console remember
+//thunderbolt
         System.assertEquals(controller.changePassword(),null);                           
     }    
 }

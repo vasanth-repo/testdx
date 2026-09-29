@@ -13,6 +13,7 @@ public class A32Test {
         
         // Assert
         //AR-39942-test-6
+        //test-3-release-26.3.8
         System.assertNotEquals(null, acc, 'Returned account should not be null');
         System.assertEquals(testName, acc.Name, 'Account name should match input');
     }

@@ -5,6 +5,8 @@
         <members>A00000</members>
         <members>A32</members>
         <members>A32Test</members>
+        <members>CommunitiesLoginController</members>
+        <members>ForgotPasswordController</members>
         <name>ApexClass</name>
     </types>
 </Package>

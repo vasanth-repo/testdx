@@ -10,6 +10,7 @@
         <members>CommunitiesLoginController</members>
         <members>ContactAndLeadSearch</members>
         <members>ForgotPasswordController</members>
+        <members>SimpleClass018</members>
         <members>SiteRegisterController</members>
         <name>ApexClass</name>
     </types>

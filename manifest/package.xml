@@ -8,6 +8,9 @@
         <members>CommunitiesLoginController</members>
         <members>ContactAndLeadSearch</members>
         <members>ForgotPasswordController</members>
+        <members>LightningSelfRegisterController</members>
+        <members>SimpleClass018</members>
+        <members>inov8__PMT_Utility</members>
         <name>ApexClass</name>
     </types>
 </Package>

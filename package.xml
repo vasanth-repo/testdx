@@ -8,6 +8,7 @@
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
         <members>CommunitiesLoginController</members>
+        <members>ContactAndLeadSearch</members>
         <members>ForgotPasswordController</members>
         <name>ApexClass</name>
     </types>

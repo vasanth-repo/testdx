@@ -5,7 +5,7 @@ public class ConflictDemo {
     public String greet() {
         String msg = 'Hello from main';
 
-        Integer count = 1;
+        Integer count = 30;
         return msg + count;
     }
 }

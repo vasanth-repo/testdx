@@ -1,5 +1,5 @@
 public class AcceptDemo {
-    String msg = 'main';
+    String msg = 'dev';
 
-    Integer count = 1;
+    Integer count = 2;
 }

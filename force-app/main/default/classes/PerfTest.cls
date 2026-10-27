@@ -9,3 +9,4 @@ public class PerfTest {
 // perf 7
 // perf 8
 // perf 9
+// perf 10

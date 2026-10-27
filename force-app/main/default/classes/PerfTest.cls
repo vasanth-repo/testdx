@@ -71,3 +71,4 @@ public class PerfTest {
 // perf 69
 // perf 70
 // perf 71
+// perf 72

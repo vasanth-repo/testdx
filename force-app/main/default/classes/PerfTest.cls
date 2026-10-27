@@ -4,3 +4,4 @@ public class PerfTest {
 // perf 2
 // perf 3
 // perf 4
+// perf 5

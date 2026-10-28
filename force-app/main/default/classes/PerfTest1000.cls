@@ -303,3 +303,4 @@ public class PerfTest1000 {
 // perf 301
 // perf 302
 // perf 303
+// perf 304

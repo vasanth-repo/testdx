@@ -99,3 +99,4 @@ public class PerfTest1000 {
 // perf 97
 // perf 98
 // perf 99
+// perf 100

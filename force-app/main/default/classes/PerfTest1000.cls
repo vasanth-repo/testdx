@@ -6,3 +6,4 @@ public class PerfTest1000 {
 // perf 4
 // perf 5
 // perf 6
+// perf 7

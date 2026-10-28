@@ -696,3 +696,4 @@ public class PerfTest1000 {
 // perf 694
 // perf 695
 // perf 696
+// perf 697

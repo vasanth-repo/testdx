@@ -255,3 +255,4 @@ public class PerfTest1000 {
 // perf 253
 // perf 254
 // perf 255
+// perf 256

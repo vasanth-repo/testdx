@@ -22,3 +22,4 @@ public class PerfTest1000 {
 // perf 20
 // perf 21
 // perf 22
+// perf 23

@@ -802,3 +802,4 @@ public class PerfTest1000 {
 // perf 800
 // perf 801
 // perf 802
+// perf 803

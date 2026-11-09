@@ -1,1 +1,1 @@
-console.log('AR-40596 v1');
+console.log('AR-40596 v2');

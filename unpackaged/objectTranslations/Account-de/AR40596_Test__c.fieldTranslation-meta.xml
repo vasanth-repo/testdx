@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label>AR40596 Test DE v1</label>
+    <label>AR40596 Test DE v2</label>
     <name>AR40596_Test__c</name>
 </CustomFieldTranslation>

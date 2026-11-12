@@ -5,13 +5,17 @@
         <members>A00000</members>
         <members>A32</members>
         <members>A32Test</members>
+        <members>Ar40029Scafail</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
         <members>CommunitiesLoginController</members>
+        <members>ConflictDemo</members>
         <members>ContactAndLeadSearch</members>
         <members>ForgotPasswordController</members>
+        <members>MRDemo</members>
         <members>SimpleClass018</members>
         <members>SiteRegisterController</members>
+        <members>devedapp__DeveloperEditionUtilsTest</members>
         <name>ApexClass</name>
     </types>
 </Package>

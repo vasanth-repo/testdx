@@ -6,6 +6,7 @@
         <members>A32</members>
         <members>A32Test</members>
         <members>Ar40029Scafail</members>
+        <members>BranchPrTest</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
         <members>CommunitiesLoginController</members>
